@@ -1,5 +1,7 @@
 ## Hi this is Dippu here 
 ## This is Basic CRUD operation demo for Laravel on Employee project
+## You need to create a database "vallbs' and export data from "vallabs.sql"
+
 step -1 Clone this repository
 Step -2 php artisan serve
 Step -3 http://127.0.0.1:8000/emp
