@@ -2,7 +2,7 @@
 ## This is Basic CRUD operation demo for Laravel on Employee project
 
 step -1 Clone this repository
-## You need to create a database "vallbs' and export data from "vallabs.sql"
+=> You need to create a database "vallbs' and export data from "vallabs.sql"
 Step -2 php artisan serve
 Step -3 http://127.0.0.1:8000/emp
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/9134522/176158573-f1f779b6-166f-4d53-a0e4-a52f52c5a865.png">
