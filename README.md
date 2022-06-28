@@ -1,3 +1,23 @@
+## Hi this is Dippu here 
+## This is Basic CRUD operation demo for Laravel on Employee project
+step -1 Clone this repository
+Step -2 php artisan serve
+Step -3 http://127.0.0.1:8000/emp
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/9134522/176158573-f1f779b6-166f-4d53-a0e4-a52f52c5a865.png">
+
+Step - 4 Click on New Employee
+<img width="1329" alt="image" src="https://user-images.githubusercontent.com/9134522/176158698-621db2b5-f7ed-45e7-90b4-b529c523253a.png">
+
+Validation
+<img width="1366" alt="image" src="https://user-images.githubusercontent.com/9134522/176158893-aaf25695-448b-410f-ac37-2d10f186587f.png">
+Step -5 Submit
+<img width="1416" alt="image" src="https://user-images.githubusercontent.com/9134522/176158976-602c8241-3507-436d-8f4d-0633c0762234.png">
+Step - 6 You can edit
+Step - 7 Delete
+<img width="1408" alt="image" src="https://user-images.githubusercontent.com/9134522/176159108-f46a26de-c512-4aa2-b15f-4b8f8e923deb.png">
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
